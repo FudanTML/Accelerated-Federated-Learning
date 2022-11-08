@@ -9,7 +9,7 @@ sharing the data, which mitigats the data isolation and protects the data privac
 `code:`You may follow the following as an example  
   * [Communication-Efficient Adaptive Federated Learning](https://github.com/yujiaw98/FedCAMS)
   
- `note:`Although the code contains both non-IID and IID cases, we encourage you to explore in the non-IID case, which is not only more challenging, but you can discover more interesting phenomena.
+ `note:`(1)Although the code contains both non-IID and IID cases, we encourage you to explore in the non-IID case, which is not only more challenging, but you can discover more interesting phenomena. (2)The dataset is specified as cifar-10 and the model is specified as Resnet.
  
 ## Reference
 [1] Kairouz P, McMahan H B, Avent B, et al. Advances and open problems in federated learning[J]. Foundations and Trends® in Machine Learning, 2021, 14(1–2): 1-210.  
