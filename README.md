@@ -3,6 +3,9 @@
 
 ## Project Goals
 
-code:You may follow the following as an example  
-[1][Communication-Efficient Adaptive Federated Learning](https://github.com/yujiaw98/FedCAMS)
+`code:`You may follow the following as an example  
+  * [Communication-Efficient Adaptive Federated Learning](https://github.com/yujiaw98/FedCAMS)
 ## Reference
+[1]  
+[2]  
+[3]  
